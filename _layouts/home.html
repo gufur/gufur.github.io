@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+  <!---
+  <div class="hero">
+  <a href="{{ "img/note.md"}}">{{ "Varför ??" }}</a>
+  <p>
+</div>
+--->
+
+<p> <a href="{{'img/note' | relative_url}} "  title="Google">Varför ??? </a>.</p>
+  
+  <div class="hero">
+	  <img class="feature-img" align="center" width="700" height="400" src="{{ 'img/20200823.jpg' | relative_url }}" />
+	</div>
+<p>
+
+  {{ content }}
+
+
+<!---
+<div class="hero">
+{% include imageModule.html image_path="img/20200823.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
+</div>
+--->
+	<div class="hero">
+	<h3>Posts</h3>
+	<ul>
+	  {% for post in site.posts %}
+	  <li>
+	    <a href="{{ post.url }}">{{ post.title }}</a>
+	  </li>
+	  {% endfor %}
+	</ul>
+	</div>
+
+ 
+
+
+</div>

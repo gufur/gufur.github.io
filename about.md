@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+71 år 2020. Drygt 30 år i yrkeslivet inom mjukvaruutveckling, i många roller, designer, systemerare, qvalite, konstruktionsprocesser, CM,  manager etc.Jobbat med många olika programeringsspråk inom yrket. Jag tyxker fortfaranede det är "görkul" med teknik och har fortsatt med egen konstruktion so mpensionär. Nya områden är microchipprogramering, golang, lite R, och naturligtvis python. Nu har jag tagit mig ann detta med blogg via Jekyll, Git och Github. Kul kul ! Alltid roligt med att lära sig mer.
 
 
-[jekyll-organization]: https://github.com/jekyll
