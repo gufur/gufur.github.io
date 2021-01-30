@@ -7,7 +7,7 @@ categories: jekyll update
 Vandring Björkliden – Låktatjåkko – Kårsavagge - Abisko
 
 Nu äntligen skulle min fru och jag få tid att vandra i fjällen. Efter fyra barn, höftledsoperationer, ett antal, närmare 30 års semestrar med med hela familjen och allt som kommer med stor familj. Nu var det äntligen dags att göra en vandring på tu man hand. Valkriterier för vandringen var Ca 3 nätter på fjället och lätt att komma dit med tåg (sovtåg).
-Ett 10 tal fjällvandringar med platser som Abisko Kungsleden, Padjelanta, Sarek, Kvikkjokk, Ritsem, Akka,  Ammarnäs, Jäckvik etc i ryggsäcken må väl vara en bra bakgrund och erfarenhet om vandring. Visst, men det var såååå läääänge sedan. Vi hade nu blivit 64 resp 71 år gamla.
+Ett 10 tal fjällvandringar med platser som Abisko Kungsleden, Padjelanta, Sarek, Kvikkjokk, Ritsem, Akka,  Ammarnäs, Jäckvik etc i ryggsäcken må väl vara en bra bakgrund och erfarenhet om vandring. Visst, men det var såååå läääänge sedan. Vi hade nu blivit 63 resp 71 år gamla.
 Efter att ha läst diverse berättelser och baserat på våra kriterier så beslutade vi oss för följande. 
 Vi kliver av tåget i Björkliden går vi Låktatjåkko Fjällstation , vidare via någon av dalarna Guoblavaggi eller den som går väster om toppen Guoblaeorru ner mot Kårsavagge. Därefter följer vi Kårsavagge mot Abisko.  Enligt alla en klassisk ”enkel” väg som man klarar av på några dagar.   Det fanns bara en liten svårighet , nedstigningen mot Kårsavagge. Enligt en del författare ganska brant men genom att välja den västra dalen undviker man den brantaste delen.
 Sagt och gjort nu var det dags. Utrustningen hade vi kompletterat under ett antal år. Vi hade allt utom riktigt bra regnställ/vindjacka. Det tog ett tag att hitta något vi trodde på. Till slut bestämde vi hoss för ett Haglövs. Dyrt men det höll verkligen vad det lovade. Maten fick vi förstås köpa. Den 21 augusti satt vi på tåget. 
@@ -69,7 +69,7 @@ Kanske kan någon ha nytta av vad vi tycker vi skulle kunna göra annorlunda nä
 Jodå det blir fler gånger. Naturen och miljön är ju fantastisk. Dessutom är det faktisk ganska skönt att leva med tält och friluftsmat.
 
 1. Ålder, vikt och Träning:
-Vi är 65 resp 71 år gamla, ganska god kondition. Många kortare vandringar med dagsryggsäck i lättare terräng. Även viss träning med tyngre säck. Det hjälpte inte. 
+Vi är 63 resp 71 år gamla, ganska god kondition. Många kortare vandringar med dagsryggsäck i lättare terräng. Även viss träning med tyngre säck. Det hjälpte inte. 
 Vi skulle ha tränat med tung säck under 3 till 6 månader, före vandringen. I den här åldern tar det tid att bygga upp styrkan.
 När jag var mellan 25 och 35 år behövdes inte någon träning. Det var bara att gå med ca 25 kg. Inga problem. Efter några dar var man van att gå.
 Vikten på säcken skall vara max 20 kg för män. Även det kan vara mycket, allt beroende på ålder och föregående träning. Men jag kommer inte att lasta mer nästa gång.
