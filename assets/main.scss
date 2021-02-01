@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.image123{
+div{
+    float:left;
+    margin-right:5px;
+}
+
+div > img{
+   height:125px;
+    width:200px;
+}
+
+p{
+    text-align:center;
+}
+}
+
+.nyrad {
+p{  text-align:center;
+}
+}
+
+.box-wrapper {
+        border: 1px solid #000;
+        width: 100%;
+        display: block;
+        position: relative;
+    }
+
+
+ 

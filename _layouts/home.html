@@ -2,10 +2,13 @@
 layout: default
 ---
 
+
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+  </div>
   
   <!---
   <div class="hero">
@@ -14,15 +17,35 @@ layout: default
 </div>
 --->
 
-<p> <a href="{{'img/note' | relative_url}} "  title="Google">Varför ??? </a>.</p>
+<p> 
+<div style="text-align: left">
+<a href="{{'img/note' | relative_url}} " align="Left"  title="Google">Varför ??? </a>.</p>
+</div>
+<p> 
 
-
-
-  
+  <!---
   <div class="hero">
 	  <img class="feature-img" align="center" width="700" height="400" src="{{ 'img/DSC01440.JPG' | relative_url }}" />
 	</div>
+--->
 <p>
+
+<div class="image123">
+    <div>
+        <img src="/img/DSC01440.JPG"/>
+        <p>Sofiero</p>
+    </div>
+    <div>
+        <img class="middle-img" src="/img/DSC01503.JPG/" />
+        <p>Väddö/Fjälllbacka</p>
+    </div>
+    <div>
+        <img src="/img/DSC02400.JPG/" />
+        <p>Trandansen</p>
+    </div>
+</div>
+
+
 
   {{ content }}
 
@@ -32,7 +55,9 @@ layout: default
 {% include imageModule.html image_path="img/20200823.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 </div>
 --->
-	<div class="hero">
+<br style="clear: both;">
+   <div class="home">
+  
 	<h3>Inlägg</h3>
 	<ul>
 	  {% for post in site.posts %}
@@ -41,9 +66,9 @@ layout: default
 	  </li>
 	  {% endfor %}
 	</ul>
-	</div>
+   </div>
 
  
-
-
 </div>
+
+
