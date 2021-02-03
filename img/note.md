@@ -12,7 +12,9 @@ Varför skriver jag en Blogg då???
 Nätet gav svaret. Jag skulle använda mig av en blogg Kul! Med mer än 30 år av programvara i ryggsäcken så det ska väl det inte vara så svårt att svänga ihop en sådan.  Sagt och gjort . Här är min blogg. Den kommer att handla om vandring, och andra fritidsaktiviteter. Text, mycket eller lite, samt bilder som beskriver pärlorna. Jag hoppas naturligtvis att den kan vara till glädje för fler än mig själv.
 Ett jättekul projekt.
 
-Vill du ställa frågor eller kommentera så kan du göra det genom mail : mina.parlor.vandringar.fiske@gmail.com
+Vill du ställa frågor eller kommentera så kan du göra det genom mail : 
+mina.parlor.vandringar.fiske@gmail.com    .
+
 Mitt mål är att ge ett svar men allt beroende av tid och andra pågående projekt.
 
 
