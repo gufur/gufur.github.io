@@ -31,6 +31,17 @@ p{  text-align:center;
         display: block;
         position: relative;
     }
+    
+    
+ img[src~="smallimage"] {
+   width:200px;
+   height:350px;
+}
+
+img[src~="bordered"] {
+   border: 1px solid black;
+}
+
 
 
  

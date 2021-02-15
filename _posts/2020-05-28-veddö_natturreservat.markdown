@@ -41,3 +41,5 @@ allt han sjunger om i visan. Inte nog med det du lär se bla Sankt Pers nycklar 
 
 Är du det minsta intresserad av natur, gå stigen. Du lär inte ångra dig.
 
+Notera: Bilderrna är tagna vi olika tillfällen och tider på året
+
