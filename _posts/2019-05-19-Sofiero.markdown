@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020-06-28 Sofiero Slotspark Strax N Helsingborg"
+title:  "2020-06-28 Sofiero Slottspark Strax N Helsingborg"
 date:   2021-01-16 18:40:45 +0100
 categories: jekyll update
 ---
