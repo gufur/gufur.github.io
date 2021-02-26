@@ -38,3 +38,6 @@ gem "kramdown-parser-gfm"
 
 source 'https://rubygems.org'
 gem 'github-pages'
+
+# Make visible on Google
+gem 'jekyll-sitemap'

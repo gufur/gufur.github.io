@@ -26,6 +26,7 @@ div{
    div > img{
    height:400px;
     width:325px;
+    border: 2px solid black;
 }
    }
    
@@ -37,9 +38,11 @@ div{
      padding-bottom: 1cm;
    }
    div > img{
-   height:700px;
+   height:600px;
     width:325px;
+    border: 2px solid black;
 }
+
    }
 
 .verticalspace {
@@ -65,7 +68,7 @@ p{  text-align:center;
 }
 
 img[src~="bordered"] {
-   border: 1px solid black;
+   border: 2px solid black;
 }
 
 
