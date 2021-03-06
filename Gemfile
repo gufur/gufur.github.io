@@ -41,3 +41,5 @@ gem 'github-pages'
 
 # Make visible on Google
 gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
+
