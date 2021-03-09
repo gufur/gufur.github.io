@@ -25,13 +25,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  
+
 # for google visible
 url: "https://gufur.github.io" # the base hostname & protocol for your site
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+
 
 
 # Exclude from processing.
