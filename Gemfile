@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -38,7 +39,9 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
-source 'https://rubygems.org'
+
+
 gem 'github-pages'
+
 
 
