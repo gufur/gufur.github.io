@@ -19,7 +19,7 @@ categories: jekyll update
    </div>
    <div>
      <img align="left" src="/img/sofiero/2016-06-05 12.17.28_crop.jpg" alt="---" title="väddö" hspace="10"/>
-           <br>    Vet inte namnet 
+           <br>    Gunnera
    </div>
 
 </div>
@@ -55,7 +55,7 @@ Jag tycker Slottsparken ska besökas under växtsäsong. Helst då Rododendronen
    </div>
    <div>
      <img align="left" src="/img/sofiero/2016-06-05 12.08.59.jpg" alt="---" title="väddö" hspace="10"/>
-           <br>    Rododendron
+           <br>    Rhododendron
    </div>
 
 </div>

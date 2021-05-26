@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "2020-08-27 Björkliden-Låktatjåkko-Kårsavagge-Abisko"
+title:  "2020-08-27 Björkliden, Låktatjåkko, Kårsavagge, Abisko"
 date:   2021-01-16 18:40:45 +0100
 categories: jekyll update
 ---
 Vandring Björkliden – Låktatjåkko – Kårsavagge - Abisko
 
-Nu äntligen skulle min fru och jag få tid att vandra i fjällen. Efter fyra barn, höftledsoperationer, ett antal, närmare 30 års semestrar med med hela familjen och allt som kommer med stor familj. Nu var det äntligen dags att göra en vandring på tu man hand. Valkriterier för vandringen var Ca 3 nätter på fjället och lätt att komma dit med tåg (sovtåg).
+Nu äntligen skulle min fru och jag få tid att vandra i fjällen. Efter fyra barn, höftledsoperationer (ett antal), närmare 30 års semestrar med med hela familjen och allt som kommer med stor familj. Nu var det äntligen dags att göra en vandring på tu man hand. Valkriterier för vandringen var ca 3 nätter på fjället och lätt att komma dit med tåg (sovtåg).
 Ett 10 tal fjällvandringar med platser som Abisko Kungsleden, Padjelanta, Sarek, Kvikkjokk, Ritsem, Akka,  Ammarnäs, Jäckvik etc i ryggsäcken må väl vara en bra bakgrund och erfarenhet om vandring. Visst, men det var såååå läääänge sedan. Vi hade nu blivit 63 resp 71 år gamla.
 Efter att ha läst diverse berättelser och baserat på våra kriterier så beslutade vi oss för följande. 
-Vi kliver av tåget i Björkliden går vi Låktatjåkko Fjällstation , vidare via någon av dalarna Guoblavaggi eller den som går väster om toppen Guoblaeorru ner mot Kårsavagge. Därefter följer vi Kårsavagge mot Abisko.  Enligt alla en klassisk ”enkel” väg som man klarar av på några dagar.   Det fanns bara en liten svårighet , nedstigningen mot Kårsavagge. Enligt en del författare ganska brant men genom att välja den västra dalen undviker man den brantaste delen.
-Sagt och gjort nu var det dags. Utrustningen hade vi kompletterat under ett antal år. Vi hade allt utom riktigt bra regnställ/vindjacka. Det tog ett tag att hitta något vi trodde på. Till slut bestämde vi hoss för ett Haglövs. Dyrt men det höll verkligen vad det lovade. Maten fick vi förstås köpa. Den 21 augusti satt vi på tåget. 
+Vi kliver av tåget i Björkliden, går förbi Låktatjåkko Fjällstation , vidare via någon av dalarna Guoblavaggi eller den som går väster om toppen Guoblaeorru ner mot Kårsavagge. Därefter följer vi Kårsavagge mot Abisko.  Enligt alla en klassisk ”enkel” väg som man klarar av på några dagar.   Det fanns bara en liten svårighet , nedstigningen mot Kårsavagge. Enligt en del författare ganska brant men genom att välja den västra dalen undviker man den brantaste delen.
+Sagt och gjort nu var det dags. Utrustningen hade vi kompletterat under ett antal år. Vi hade allt utom riktigt bra regnställ/vindjacka. Det tog ett tag att hitta något vi trodde på. Till slut bestämde vi oss för ett Haglöfs. Det var dyrt men det höll verkligen vad det lovade. Maten fick vi förstås köpa. Den 21 augusti satte vi oss på tåget mot fjällen.
 
 ![Utsikt Ovan Bjorkliden. Lapporten](/img/bjorkl/DSC03326.jpg "Lapporten")
 
 ![Utsikt Ovan Bjorkliden](/img/bjorkl/DSC02996.JPG "Björkliden")
 
 Dag 1: 22 aug
-Stiger av tåget i Björkliden  Tåget var 2 timmar försenat redan från Stockholm och SJ lyckades inte köra in något på vägen upp. Vi hade dessutom blivit ombokade till sittvagn från Boden. Sj kan inte pga Corona-restriktioner, i Norge, köra sovvagnarna till Narvik.
-Fantasisk dag. Solen bakade på så det var bara att ge sig av mot Låktatjåkko fjällstation. Torne träsk ligger på 341 möh och fjällstationen på  1228 möh. Dvs vi skulle på 9 km ta oss upp ca 900 m. Enligt diverse beskrivningar ”knallar du dit på några timmar”. Nja inte ens om det var utan stigning med lätt packning skulle jag klara det på en knölig skogsstig (ca 5 km per timme).  Här gick det uppför och vi hade rejäl packning. Med packningen och uppförslut klarar vi ca 1 km i timmen. Eftersom vi anlände till Björkliden mitt på dagen var vår plan att gå halvägs, ca 4-5 km, och där tälta för att ta oss upp till Låktatjåkko dagen därpå. Stigen är till större delen bra men då och då så brant att vi fick ta till knäna och klättra. Framåt 7 tiden på kvällen var vi rejält trötta och som planerat var dags att slå läger. Uppe på fjället var vädret varierande, med allt från regn och blåst till sol. Längs stigen mot Låktatjåkko finns inte många ställen att tälta på, med tillgång på vatten, men vi hittade en perfekt plats på högplatån vid Rakkaslahku, ca 880 möh.
+Vi stiger av tåget i Björkliden.  Tåget var 2 timmar försenat redan från Stockholm och SJ lyckades inte köra in någon tid på vägen upp. Vi hade dessutom blivit ombokade till sittvagn från Boden. Sj kan inte pga Corona-restriktioner i Norge, köra sovvagnarna till Narvik.
+Det var en fantasisk dag. Solen bakade på så det var bara att ge sig av mot Låktatjåkko fjällstation. Torne träsk ligger på 341 möh och fjällstationen på  1228 möh. Dvs vi skulle på 9 km ta oss upp ca 900 m. Enligt diverse beskrivningar ”knallar du dit på några timmar”. Nja inte ens om det var utan stigning med lätt packning på en knölig skogsstig (ca 5 km per timme), skulle jag klara det.  Här gick det uppför och vi hade rejäl packning. Med packningen och uppförslut klarar vi ca 1 km i timmen. Eftersom vi anlände till Björkliden mitt på dagen var vår plan att gå halvägs, ca 4-5 km, och där tälta för att ta oss upp till Låktatjåkko dagen därpå. Stigen är till större delen bra men då och då så brant att vi fick ta till knäna och klättra. Framåt 7 tiden på kvällen var vi rejält trötta och som planerat var dags att slå läger. Uppe på fjället var vädret varierande, med allt från regn och blåst till sol. Längs stigen mot Låktatjåkko finns inte många ställen att tälta på, där det finns tillgång till vatten. Vi hittade dock en perfekt plats på högplatån vid Rakkaslahku, ca 880 möh.
 
 ![Tälta mellan Björkliden och Låddatjåkko](/img/bjorkl/DSC03006.JPG "Tälta")
 
@@ -40,7 +40,7 @@ Nu är vi rejält hungriga så på med lunchen. Det börjar regna lätt när vi 
  Upp med tältet och fixa middag. Sedan till sängs. Nu visar det sig att en sovsäck var dyblöt och detta tillsammans med en del kläder. Vi fick dela på kvarvarande sovsäck och reservkläder. Det var ju inte som vi tänkt oss. Kallt med stenar i ryggen som inte ens liggunderlagen kunde räta ut. Varför är alla liggunderlag så hala, förresten. Om det lutar så glider man av.
 
 Dag 3, 24 Augusti.
-De sporadiska rösen som vi använt tidare finns inte mer. Vi följer tanken bakom de tidigare rösena och håller oss ganska högt. Det funkar utmärkt, ett tag.  Plötsligt, då vi är i höjd med slutet på 3dje sjön, står vi framför en brant,  utan möjlighet att ta oss ner. Nedanför branten går det ett vattendrag med litet delta, för att slutligen rinna ut i sjön. Vi inser samtidigt att vi måste ner dit för att vada över vattendraget och fortsätta längsmed vattnet i dalen  Vi går tillbaka och hittar slutligen ett ställe där vi säkert kommer ner. Efter vattendraget, ganska nära jokken som tömmer de tre sjöarna , börjar marken jämna ut sig och vi får en fantastisk promenad över hedar, mot nedgången till Kårsavagge. 
+De sporadiska rösen som vi använt tidare finns inte mer. Vi följer tanken bakom de tidigare rösena och håller oss ganska högt. Det funkar utmärkt, ett tag.  Plötsligt, då vi är i höjd med slutet på 3dje sjön, står vi framför en brant,  utan möjlighet att ta oss ner. Nedanför branten går det ett vattendrag med litet delta, för att slutligen rinna ut i sjön. Vi inser att vi måste ner dit för att vada över vattendraget och fortsätta längsmed vattnet i dalen  Vi går tillbaka och hittar slutligen ett ställe där vi säkert kommer ner. Efter vattendraget, ganska nära jokken som tömmer de tre sjöarna , börjar marken jämna ut sig och vi får en fantastisk promenad över hedar, mot nedgången till Kårsavagge. 
 
  ![Ner mot Kårsavagge](/img/bjorkl/DSC03012.JPG "Ner mot Kårsavagge") 
 
@@ -48,20 +48,21 @@ Här hade det varit det perfekt att slå upp tältet. Vi tar en fika alltmedan v
 
  ![Ner mot Kårsavagge](/img/bjorkl/DSC03372.JPG "Nerfarten")
 
- Bara att hitta egen väg. Bitvis är det så brant att vi håller os i markvegetationen och klättrar baklänges ner. Stavarna har vi ingen nytta av alls. Visst det finns tuvor att sätta foten på och antydan till stig bitvis. Verkligen tur att det är bra väder. I regn blir detta jättehalt. Runt kl 15, ca 50 m över botten, tar vi lunchpaus. Nu för första gången sedan vi lämnat Låktatjåkko ser vi ett par som är på väg upp över den västra leden. Vi vinkar till varandra. Det känns skönt. Nu har vi bara ca 3 km till Kårsavaggestugan. Lätt som en plätt ..eller?
+ Bara att hitta egen väg. Bitvis är det så brant att vi håller oss i markvegetationen och klättrar baklänges ner. Stavarna har vi ingen nytta av alls. Visst det finns tuvor att sätta foten på och antydan till stig bitvis. Verkligen tur att det är bra väder. I regn blir detta jättehalt. Runt kl 15, ca 50 m över botten, tar vi lunchpaus. Nu för första gången sedan vi lämnat Låktatjåkko ser vi ett par som är på väg upp över den västra leden. Vi vinkar till varandra. Det känns skönt. Nu har vi bara ca 3 km till Kårsavaggestugan. Lätt som en plätt ..eller?
 Tja kanske vanligtvis men nu börjar vandringen och nedstigningen ta ut sin rätt. Vi är helt slut. Sista kilometern fram till stugan släpar vi oss fram. Sätter vi oss för att vila, kommer vi knappt upp igen. Musklerna vill helt enkelt inte även om viljan finns. Men vi kom fram runt 1930. Mat och i säng, fortfarande med bara en sovsäck men, med tältet på betydligt planare underlag och inte så kallt som natten innan.
 
  ![Ner mot Kårsavagge](/img/bjorkl/DSC03377.JPG "Nerfarten")
 
 Dag 4 25 Augusti.
-Vaknar till en fantastisk dag. Och tänk här finns det ”bekvämlighetsinrättning”. Vår plan var att vi skulle ha kommit längre ner i Kårsavagge för att ha en kortare bit kvar till Abisko. Vi hade ju bokat rum och middag  på STF till kvällen. Det är 13 km att vandra. Det kommer att ta oss 2 dagar, om vi hade haft några krafter kvar. Mot bakgrund av de 13 kilometerna och våra urkramade kroppar insåg vi att det hade varit för stor skaderisk att ens försöka. Dessutom hade vi inte tillräckligt med tid för att passa tåget hem. Detta även om vi hoppat över STF hotellet denna kvällen.
+Vaknar till en fantastisk dag. Och tänk här finns det ”bekvämlighetsinrättning”. Vår plan var att vi skulle ha kommit längre ner i Kårsavagge för att ha en kortare bit kvar till Abisko. Vi hade ju bokat rum och middag  på STF till kvällen. Det är 13 km att vandra. Det kommer att ta oss 2 dagar, om vi hade haft några krafter kvar. Mot bakgrund av de 13 kilometerna och våra urkramade kroppar inser vi att det hade varit för stor skaderisk att ens försöka. Dessutom hade vi inte tillräckligt med tid för att passa tåget hem. Detta även om vi hoppat över STF hotellet denna kvällen.
 Vi ringde Kallax helikopter som flög oss till Abisko Östra. Det tog 6 minuter. Tack Kallax flyg för att ni tog er tid.
-Första gången i helikopter. En fantastisk flygning med hela dalen i solsken. Vackert.
+Första gången i helikopter. En fantastisk flygning med hela dalen i solsken. Mycket vackert.
 
  ![Helikopter mot Abisko](/img/bjorkl/DSC03040.JPG "Helikopter")
 
-Nu var det bara ett par km från Abisko östra till STF turistation. Även om vi var trötta så skulle väl det gå att gå (det finns buss). Det visade sig att våra kroppar fortfarande var slut. Vi släpade oss till hotellet. Gissa vilken våning vi fick rum på? 3dje våningen. Att vi tog oss upp för trapporna var bara vilja. 
+Nu var det bara ett par km från Abisko östra till STF turistation. Även om vi var trötta så skulle väl det gå att gå (det finns buss). Det visade sig att våra kroppar fortfarande var slut. Vi släpade oss till hotellet. Gissa vilken våning vi fick rum på? Jo, 3dje våningen. Att vi tog oss upp för trapporna, var bara vilja. 
 Dusch och riktig säng har aldrig känts bättre. En öl före maten i solsken på terassen känns rätt bra det också. Sedan en trerätters reninspirerad middag, i kontrast till frystorkat. De var gudomligt.
+
 Lärdommar:
 När vi planerade resan läste vi många berättelser om liknande vandringar i området. Utgående från dessa och tidigare erfarenheter, så planerade vi vår vandring. Det blev inte så bra, för oss. Det blev alldeles för tungt. Kanske kan jag tycka att berättelserna var något romantiserade. Men det kan ju bero av fötrutsättningarna.
 Jag tror mao att det behövs en mer nyanserad beskrivning av denna vandring.
@@ -73,13 +74,16 @@ Vi är 63 resp 71 år gamla, ganska god kondition. Många kortare vandringar med
 Vi skulle ha tränat med tung säck under 3 till 6 månader, före vandringen. I den här åldern tar det tid att bygga upp styrkan.
 När jag var mellan 25 och 35 år behövdes inte någon träning. Det var bara att gå med ca 25 kg. Inga problem. Efter några dar var man van att gå.
 Vikten på säcken skall vara max 20 kg för män. Även det kan vara mycket, allt beroende på ålder och föregående träning. Men jag kommer inte att lasta mer nästa gång.
-2 Val av område, Planerade dagsetapper:
+2. Val av område, Planerade dagsetapper:
 Ta hänsyn till om det lutar uppför längre sträckor. Välj helst inte en färdväg där det är mycket brant uppför eller nerför. Om du måste, så ta till mycket tid för dessa sträckor. Dom sliter på kroppen
-Färdvägar över 1100 m var, i detta området, bara sten. Kanske är det så på alla ställen. Mina tidigare vandringar måste ha varit planerade till större delen under den höjden. Planera etapper så att du kan tälta, någon växtlighet och vatten. Vatten kan vara svårt om det bara är sten. För oss så regnade det hela tiden så fjällsidorna var fulla av rinnande vatten.
-3 Dagsetapper:
-Vi hade planerat korta etapper ca 5-8 km per dag. Det hade säker varit bra planerat, om vi bortser från pkt 1 och 2. Jag vet, förr var det inga problem med etapper på mellan 15 och 25 km
-4 Packning.
+Färdvägar över 1100 m var, i detta området, bara sten. Kanske är det så på alla ställen. Mina tidigare vandringar måste ha varit planerade till större delen under den höjden. Planera etapper så att du kan tälta, med någon växtlighet och vatten. Vatten kan vara svårt om det bara är sten. För oss så regnade det hela tiden så fjällsidorna var fulla av rinnande vatten.
+3. Dagsetapper:
+Vi hade planerat korta etapper ca 5-8 km per dag. Det hade säker varit bra planerat, om vi bortser från pkt 1 och 2.  Jag vet, förr var det inga problem med etapper på mellan 15 och 25 km
+4. Packning.
 Packa all utrustning som inte får bli blött i vattentäta påsar. Det räcker inte med ryggsäck och regnrock för säcken.  
 
 Lycka till mer Er vandring
+
+Revisioner:
+20210518 Mindre språkliga ändringar. 
 
