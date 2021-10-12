@@ -8,13 +8,14 @@ categories: jekyll update
 
 ![Utsikt, solnedgång Grövelsjön](/img/GrövelsjönTöfsingdalen1/grövels-Solnedg_DSC04023.JPG "Utsikt, solnedgång Grövelsjön")
 
-Den här hösten har vi planerat en vandring från Grövelsjön till Töfsingdalens Nationalpark. Bilturen upp till Grövelsjön ger dessutom utrymme för att titta på något sevärt (Roadtrip) på vägen upp och ner.
+Den här hösten hade vi planerat en vandring från Grövelsjön till Töfsingdalens Nationalpark. Bilturen upp till Grövelsjön ger dessutom utrymme för att titta på något sevärt (Roadtrip) på vägen upp och ner.
 Missöden och väder gjorde dock att turen blev långt ifrån vad vi tänkt. Mer om det nedan.
 
-Strax norr om Rättvik ligger Styggforsen, bara en liten avstickare från ”stora vägen” mot Grövelsjön. Forsen är en del av Siljansringen som skapades för ett antal hundra miljoner år sedan, vid ett meteoritnedslag. <br> 
-En fors låter kanske inte så upphetsande men hela ladskapet bjuder på dramatiskt geologiskt sceneri där man ser skrapspåren av meteoriten i bergssidan.
+Strax norr om Rättvik ligger Styggforsen. Det är bara en liten avstickare från ”stora vägen” mot Grövelsjön. Forsen är en del av Siljansringen som skapades för ett antal hundra miljoner år sedan, vid ett meteoritnedslag. <br> 
+En fors låter kanske inte så upphetsande men hela landskapet bjuder på dramatiskt geologiskt sceneri där man ser skrapspåren av meteoriten i bergssidan.
 (<a href="https://www.lansstyrelsen.se/dalarna/besoksmal/naturreservat/rattvik/styggforsen.html" target="_top">Styggforsen </a>).
-Jordskorpan ställde sig på högkant och underliggande bergslager kom i dagen. Därav bl.a. de kalkbrott som finns i området. I ett av dom ligger Dalhalla, en scen med trevligt utbud av underhållning. (<a href="https://www.dalhalla.se/" target="_top">Dalhalla </a>)
+Vid nedslaget ställde sig jordskorpan på högkant och underliggande bergslager kom i dagen. Därav bl.a. de kalkbrott som finns i området. I ett av dom ligger Dalhalla, en scen med trevligt utbud av underhållning. (<a href="https://www.dalhalla.se/" target="_top">Dalhalla </a>)<br>
+Kalk?? vad kommer det ifrån? Jag var tvungen att googla lite på det. Det visar sig att kalken kommer från gammal havsbotten. Men havsbotten här uppe? Jodå ! Pga kontinentalplattornas förflyttning norrut så har området varit gammal havsbotten i höjd med medelhavet, en massa miljoner år sedan. Spännande!
 
 ![Repor från nedslaget](/img/GrövelsjönTöfsingdalen1/Styggf-reporBäck_20210907_131808_crop2.jpg "Repor"){:width="48%"} ![Repor från nedslage](/img/GrövelsjönTöfsingdalen1/Styggf-repor_DSC04009.JPG  "Repo"){:width="48%"}
 
@@ -25,12 +26,12 @@ Jordskorpan ställde sig på högkant och underliggande bergslager kom i dagen. 
 Från Rättvik är det sedan bara lite drygt 20 mil kvar till Grövelsjön. Runt 17 ”landade” vi i Grövelsjön. Vår plan var att sova i tält vid STF Fjällstation och nyttja deras bekvämligheter.
 Många fjällstationer har ju ett område reserverat för tältare men dessvärre har inte Grövelsjön det.
 Dom ska ha 200 kr för att utnyttja dusch och kök men hänvisar till allemansrätten för att slå upp tältet. Dessutom var tillgängligheten till kök etc starkt begränsad i tid, för oss tältare. Allt detta var lite magstarkt tyckte vi så det fick bli annan lösning. 
-Strax öster Fjällstationen, en bit uppåt fjället finns det en ”sommarparkering” med ett fräscht dass. 
-Ryggsäckarna var ju packade så det var bara att hänga på dom och  stega några hundra meter uppåt fjället, längs stigen mot bl.a. Töfsingdalen. Där på vänster sida om stigen finns några perfekta platser att tälta på. Ett visst vindskydd erbjuds av ett glest bestånd av fjällbjörk och barrträd. 
+Strax öster Fjällstationen, en bit uppåt fjället, finns det en ”sommarparkering”.
+Ryggsäckarna var ju packade så det var bara att hänga på dom och  stega några hundra meter uppåt fjället, längs stigen mot bl.a. Töfsingdalen. Där på vänster sida om stigen finns några perfekta platser att tälta på. Ett visst vindskydd erbjuds av ett glest bestånd av fjällbjörk och låga barrträd. 
 
 ![Utsikt Grövelsjön](/img/GrövelsjönTöfsingdalen1/grövels-fötterUtsiktDSC03431.JPG "Utsikt Grövelsjön")
 
-Utsikten över hela dalen är magnifik. Man ser sjön, byn och  motsatta fjällsidan mot Norge.
+Utsikten över hela dalen är magnifik. Man ser sjön, byn och  motsatta fjällsidan mot Norge. <br>
 Ligger du hemma i sängen och tänker på att sova i tält, så kanske det inte känns så lockade men när du väl kommit ner i sovsäcken och hör alla ljud och känner luften, då finns det inget bättre.
 
 ![Tältplats](/img/GrövelsjönTöfsingdalen1/grövels-tältDSC03428.JPG "Tältplats")
