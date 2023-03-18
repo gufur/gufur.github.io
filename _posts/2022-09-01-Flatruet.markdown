@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h3>Flatruet och Messlingen med hällmålningar</h3>
 
-Flatruet, en nästan platt kalfjällsplatå mellan Östersund och Funäsdalen, med Helags i NV hörnet.  Sevärt pga sin säregna natur och Sveriges högst belägna väg mellan Ljungdalen och  Funäsdalen / Messlingen. Orrar på vägen upp från Ljungdalen, Tranor och Ren, naturligtvis, bidrar att höja upplevelsen. Nära till vandring mot Helags från Ljungdalens STF vandrarhem.
+Flatruet, en nästan platt kalfjällsplatå mellan Östersund och Funäsdalen, med Helags i NV hörnet.  Sevärt pga sin säregna natur och Sveriges högst belägna väg mellan Ljungdalen och  Funäsdalen / Messlingen. Orrar på vägen upp från Ljungdalen, Tranor och naturligtvis Ren bidrar att höja upplevelsen. Nära till vandring mot Helags från Ljungdalens STF vandrarhem.
 
 ![Flatruet-Mot-Helags](/img/flatruet/Flatruet-Mot-Helags_DSC04905.JPG "Flatruet-Mot-Helags")
 
@@ -16,8 +16,8 @@ Flatruet, en nästan platt kalfjällsplatå mellan Östersund och Funäsdalen, m
 </div>
 <br>
 
-Järnåldersmålningar, strax utanför byn Messlingen,  en 8 km slinga tar dig förbi järnåldersmålningar, där järnåldersmänniskorna i jakt. Dom drev stora bytesdjur utför stupen. Sista biten från allmän väg till närmaste parkering är avgiftsbelagd (swish). Jag föredrog att gå slingan motklocka. De första 500 m efter hällmålningen blir det kraftig stigningen men sedan blir vandringen mer eller mindre utför hela vägen tillbaka till parkeringen. 
-Slingan tar er förbi vacker utsikt, och dramatiska förkastningssprickor med intressant historia. Sprickorna visar tydligt hur horisontellt skiktat berget är. Tänk att målningarna finns kvar efter ett antal 1000 år! I en av sprickorna lever Röding genetiskt opåverkad från senaste istiden. 
+Sevärt är järnåldersmålningarna strax utanför byn Messlingen.  En 8 km slinga tar dig förbi målningar, där järnåldersmänniskorna drev stora bytesdjur utför stupen. Sista biten upp till startpunkten på stigen och en parkering, är avgiftsbelagd (swish). Jag föredrog att gå slingan motklocka. De första 500 m efter hällmålningen blir det kraftig stigningen men sedan blir vandringen mer eller mindre utför hela vägen tillbaka till parkeringen. Tänk att målningarna finns kvar efter ett antal 1000 år!
+Slingan tar er även förbi vacker utsikt, och dramatiska förkastningssprickor med intressant historia. Sprickorna visar tydligt hur horisontellt skiktat berget är. I en av sprickorna lever röding som är genetiskt opåverkad från senaste istiden. 
 
 
 
@@ -49,4 +49,5 @@ Slingan tar er förbi vacker utsikt, och dramatiska förkastningssprickor med in
 
 Revisioner:
 20230102 Första utgåvan
+20230225 Några språkliga ändringar
 
