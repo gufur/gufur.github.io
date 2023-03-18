@@ -47,7 +47,7 @@ Slingan tar er även förbi vacker utsikt, och dramatiska förkastningssprickor 
 <a href="https://visitmesslingen.se/sevart/" target="_top">Sevärt kring Messlingen</a>
 <br>
 
-Revisioner:
-20230102 Första utgåvan
-20230225 Några språkliga ändringar
+<br>Revisioner:
+<br>20230102 Första utgåvan
+<br>20230225 Några språkliga ändringar
 
