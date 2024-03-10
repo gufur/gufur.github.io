@@ -90,8 +90,6 @@ Tältplats utanför Nationalparken
  Efter middag och en kopp choklad hade det blivit mörkt och det var dags att krypa in i tältet. Det är ju lite tidigt att sova redan kl 21 så vi har tagit för vana att lyssna på någon nedladdad Podd. Det somnar man bra till. 
 Nästa dag vaknade vi till en lätt regnskur. Det hade blivit väderomslag med prognos för lätt regn hård vind under dagen och det var ju inte så farligt men framemot natten lovade dom över 20 m/s. Visst, tältet står säkert kvar men frågan är vad som är njutbart. Med åldern har vi ju blivit lite bekväma av oss. Det blev en hel del diskussion till frukost. Ska vi gå vidare och satsa på en natt vid Kårsavaggestugan i storm eller gå tillbaka till Abisko. 
 
-![Utsikt](/img/AbiskoKårsavagge/2023-09-04_10.43.13_BörjarBlåsa.mp4 "Det börjar blåsa")
-
 Vi gick tillbaka till Abisko och tog in på Abisko Mountain Lodge. 
 
 Det ser inte så mycket ut utifrån men väl inne är det en pärla till vettigt pris. Vi bokade en stuga med kök och toalett. Duschen låg i grannhuset mindre än 10 m från stugan. Allt rent och fräscht. Den natten blåste det så takplåtarna skallrade och vi var glada att vi inte låg i tältet.
@@ -111,5 +109,7 @@ Tyvärr har alla ryggsäckar idag ett för litet lock. Det liksom smalnar av upp
 <br>
 
 <br>Revisioner:
-<br>20240310: Första utgåvan
+<br>20240310 kl 15: Första utgåvan
+<br>20240310 kl 21: Tagit bort ref till en mp4 film. Verkar inte som systemet har funktionen att spela en sådan film.
+
 
